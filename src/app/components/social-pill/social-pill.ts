@@ -1,0 +1,9 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-social-pill',
+  imports: [],
+  templateUrl: './social-pill.html',
+  styleUrl: './social-pill.css',
+})
+export class SocialPill {}

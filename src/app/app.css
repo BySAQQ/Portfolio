@@ -1,0 +1,13 @@
+@import url('../styles.css');
+
+:root {
+  color-scheme: light dark;
+}
+
+html,
+body {
+  font-family: 'Onest Variable', system-ui, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  background: radial-gradient(125% 125% at 50% 10%, #000 40%, #63e 100%);
+}
